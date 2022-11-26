@@ -1,0 +1,130 @@
+.introText-home,
+.settingsMenuContainer {
+    float: left;
+    width: 50%;
+    margin-top: 120px;
+}
+
+.introText-home1 {
+    margin: auto;
+    margin-top: 203px;
+    line-height: 4.5em;
+    width: 50%;
+    padding-right: 26px;
+}
+
+.introText1 {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+}
+
+.introText-home2 {
+    margin: auto;
+    margin-top: -20px;
+    margin-right: 200px;
+    line-height: 2em;
+    width: 55%;
+}
+
+.introText2 {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.bulletDesign {
+    float: left;
+    width: 100%;
+}
+
+.bulletTextContainer {
+    width: 100%;
+    float: left;
+    margin-top: 228px;
+}
+
+.bulletText {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    font-weight: 800;
+}
+
+.bulletCircle {
+    float: left;
+    width: 100%;
+}
+
+.circle {
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    border: solid white 2px;
+    background-color: white;
+    margin: auto;
+    margin-top: -2px;
+    padding-right: 1px;
+}
+
+.bulletLine {
+    float: left;
+    width: 100%;
+}
+
+.bulletLineText {
+    color: white;
+    text-align: center;
+    margin-top: -8px;
+    font-size: 20px;
+}
+
+.homeTextGridContainer {
+    float: left;
+    width: 100%;
+}
+
+.homeTextGridLeft {
+    float: left;
+    width: 50%;
+}
+
+.homeTextGridLeftInner {
+    width: 60%;
+    margin: auto;
+    margin-top: 100px;
+    margin-right: 30px;    
+}
+
+.homeTextParagraph1 {
+    font-family: 'Poppins', sans-serif;
+    color: #3c005e;
+    font-size: 29px;
+    font-weight: 800;
+    line-height: 1.2em;
+    text-align: left;
+}
+
+.homeTextGridRight {
+    float: left;
+    width: 50%;
+}
+
+.homeTextParagraph2, .homeTextParagraph3 {
+    width: 60%;
+    float: left;
+}
+
+.homeTextParagraph2 {
+    margin-top: 85px;
+}
+
+.homeTextInner {
+    color: #475569;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}

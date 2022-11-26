@@ -1,0 +1,14 @@
+.main-app {
+  width: 100%;
+  height: 970px;
+  background-image: url("./images/hero-home.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main-appGradiant {
+  background: radial-gradient(transparent, rgb(14, 2, 27));
+  transition: all 0s ease 0s;
+  width: 100%;
+  height: 100%;
+}

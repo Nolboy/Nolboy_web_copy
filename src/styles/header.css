@@ -1,0 +1,71 @@
+.headerContainer {
+    width: 100%;
+    background-color: transparent;
+    height: 105px;
+    position: fixed;
+    top: 0;
+    z-index: 2;
+}
+
+.blurHeader {
+    width: 100%;
+    height: 105px;
+    position: fixed;
+    top: 0;
+    background-color: transparent;
+    z-index: -1;
+    transition: 0.2s;
+}
+
+.imageHeadContainer {
+    float: left;
+    margin-left: 224px;
+    margin-top: 30px;
+    width: 0;
+    height: 0;
+}
+
+.headerImage {
+    width: 100px;
+    height: auto;
+    transition: 0.5s;
+}
+
+.headerLeft,
+.headerRight {
+    float: left;
+    width: 50%;
+}
+
+.linkContainer {
+    float: left;
+    width: 100%;
+}
+
+.ulHeadLinks {
+    float: left;
+    margin-left: 35px;
+    list-style: none;
+}
+
+.headLinkGlobal {
+    font-size: 15px;
+    text-decoration: none;
+    color: rgb(166, 166, 166);
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    transition: 0.5s;
+    font-weight: 700;
+    transition: 0.2s;
+}
+
+.headLinkGlobal:hover {
+    color: white;
+    transition: 0.5s;
+}
+
+.ulLinkContainer {
+    margin-top: 45px;
+    margin-left: 50px;
+}
